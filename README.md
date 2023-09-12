@@ -1,24 +1,28 @@
-# Department-Store-Inventory-Management-System-Linked-Lists
-Inventory Management System for a Department Store using Linked Lists. Allows store clerks to track item details, adjust quantities, restock, and find items in specific departments to assist customers.
+# 🏬 Department Store Inventory Management System
 
-To ensure security, the program should first ask the clerk to enter the password provided by the manager (use while loop [example is NIM]) → not needed, and not in requirement, but is an additional safety feature.
+Streamline your department store's inventory management with our user-friendly program. Effortlessly keep track of products, restock items, assist customers, and make data-driven decisions.
 
-If entered correctly, the user interface (UI) for the inventory management program could include the following options on the main menu:
+Key Features:
 
-Sell Item - Allows the clerk to decrement the quantity of an item by one.
-The clerk would enter the SKU number of the item being sold, and the program would decrement the quantity by one and confirm the sale, updating the inventory accordingly.
-The system will also update the stock level and records the sale
+Intuitive Interface: Easy-to-use interface for store clerks.
+Inventory Tracking: Monitor item quantities, descriptions, SKUs, prices, and manufacturers.
+Flexible Adjustments: Quickly adjust inventory based on customer demands or restocking needs.
+Search Functionality: Find specific items and department details efficiently.
+Enhanced Customer Service: Empower store clerks to better serve customers with accurate information.
+Make your department store operations more efficient and customer-centric. Upgrade to our Inventory Management System today and watch your business thrive!
 
-Print Items in Department - Allows the clerk to view a list of all items in a specific department.
-The clerk would enter the department name, and the program would display a list of all items in that department, including their SKU number, description, quantity, purchase price, and supplier name.
+Enhance the efficiency and security of your department store's inventory management with our comprehensive program. This Inventory Management System is designed to provide a seamless experience for store clerks, ensuring accurate record-keeping and effortless customer service.
 
-Search for Item - Allows the clerk to search for an item by its SKU number, name or department and view its details.
-The clerk would enter the SKU number of the item they are searching for, and the program would display the details of the item, including its description, department, quantity, purchase price, and supplier name.
+Key Features:
 
-Restock Item - Allows the clerk to increment the quantity of an item and input restocking details such as the supplier, and price.
-The clerk would enter the SKU number and quantity of the item being restocked, supplier name, and price.
-The program would increment the quantity by the specified amount and confirm the restock, updating the inventory accordingly.
-The system will also update the stock level, and supplier name
+Secure Access: An optional password feature ensures only authorized clerks can access the program.
+Intuitive User Interface: A user-friendly UI with clear prompts for easy navigation.
+Inventory Tracking: Monitor and manage item details, including SKU numbers, descriptions, quantities, purchase prices, and suppliers.
+Sales Management: Easily sell items, decrementing quantities, and updating stock levels with each transaction.
+Departmental Insights: Retrieve a list of all items within a specific department, complete with essential information.
+Quick Item Lookup: Search for items by SKU number, name, or department, and view detailed item information.
+Efficient Restocking: Increment item quantities with restocking details such as supplier name and price.
+Robust Data Handling: Capable of managing large datasets and accommodating multiple clerks simultaneously.
+Clear Data Presentation: Organized and sortable data display for easy information retrieval.
+Simplify your inventory management, improve customer service, and make data-driven decisions. Elevate your department store's operations with our Inventory Management System!
 
-Exit from program (Shift is over)
-The UI should be designed to be easy to navigate and understand, with clear and concise prompts for the clerk to follow. The clerk should be able to access the inventory information quickly and easily, and the program should be able to handle large amounts of data and concurrent access by multiple clerks. The output screen should display the relevant information in a clear and organized manner, and should include options for sorting and filtering the data.
