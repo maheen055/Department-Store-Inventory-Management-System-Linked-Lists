@@ -1,5 +1,3 @@
-// Final --> Day 5 
-
 package test;
 import java.util.Scanner;
 
