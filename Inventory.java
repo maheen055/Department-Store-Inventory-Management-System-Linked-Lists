@@ -1,5 +1,3 @@
-// Final --> Day 5
-
 package test;
 
 public class Inventory {
